@@ -1,1 +1,3 @@
 # goormide
+
+my goorm projekt
